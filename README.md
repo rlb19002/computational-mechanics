@@ -3,6 +3,9 @@
 [Jupyter-Book](https://jupyterbook.org) __Check it out -->__ [![Jupyter Book
 Badge](images/badge.svg)](https://cooperrc.github.io/computational-mechanics/README.html)
 
+
+## rlb19002 account from compmech
+
 Greetings!
 
 Thanks for joining us for UConn's Computational Mechanics course.
@@ -15,6 +18,9 @@ etc. and share them with anyone you meet. Just make sure you link back
 to this course website. 
 
 
+```python
+# test
+```
 
 ### JupyterHub server: <https://compmech.uconn.edu/>
 
